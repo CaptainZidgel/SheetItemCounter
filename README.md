@@ -4,3 +4,4 @@ This program does that automatically. (This could've been a command line program
 GUI made with Tkinter (The question: why didn't I use Java for this?? Making GUIs for that is so much easier!! The answer: stubbornness!)
 
 # it's not done yet.
+its functional, but it needs the GUI to be fixed. (Currently it's **VERY** wonky). It also doesn't have any try/handle for errors. So just don't do anything to throw an error!
